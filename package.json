@@ -1,0 +1,21 @@
+{
+  "name": "apm",
+  "version": "1.0.0",
+  "description": "Starter files and support materials for the Pluralsight course: \"Angular with TypeScript\"",
+  "main": "app/app.js",
+  "dependencies": {
+    "@types/angular": "^1.6.39",
+    "@types/angular-mocks": "^1.5.11",
+    "@types/angular-resource": "^1.5.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/sivins/APM"
+  },
+  "author": "",
+  "license": "ISC"
+}
